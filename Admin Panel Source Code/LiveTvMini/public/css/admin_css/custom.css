@@ -1,0 +1,13 @@
+.login-page {
+    /* background: #27527A; */
+    background-image: url("/bg2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.login-form-text {
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: 1.3rem;
+    font-weight: bold;
+}
